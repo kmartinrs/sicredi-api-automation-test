@@ -1,0 +1,15 @@
+{
+	"id": "#number",
+	"meses": [
+		"#string",
+		"#string",
+		"#string",
+		"#string"
+	],
+	"valor": [
+		"#string",
+		"#string",
+		"#string",
+		"#string"
+	]
+}
